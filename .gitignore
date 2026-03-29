@@ -1,0 +1,12 @@
+.DS_Store
+.venv/
+.jupyter_data/
+.jupyter_runtime/
+.mplconfig/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.zip
+24级第二周作业/
+24级第四周作业/
+韦玉炜-51274108018-第二次作业/
